@@ -1,3 +1,11 @@
+## <small>0.1.9 (2021-10-04)</small>
+
+- update: Update Readme https://github.com/victorkl400/krabs#readme
+
+## <small>0.1.8 (2021-10-04)</small>
+
+- feat: `_PATH` will redirect to `shared/PATH.tsx` file ([1f99924](https://github.com/victorkl400/krabs/commit/1f999247153d893bfc42f4c74ae0b579872ab7ba))
+
 ## <small>0.1.3 (2021-08-17)</small>
 
 - feat: added conventional changelog generation script ([46fd20b](https://github.com/MicheleRiva/krabs/commit/46fd20b))

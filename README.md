@@ -1,4 +1,4 @@
-<img src="/misc/krabs-cover.png" />
+<img src="/misc/sirigueijo-cover.png" />
 
 [![Build Status](https://github.com/micheleriva/krabs/actions/workflows/coverage.yml/badge.svg)](https://github.com/micheleriva/krabs/actions/workflows/coverage.yml)
 [![e2e tests](https://github.com/micheleriva/krabs/actions/workflows/e2e.yml/badge.svg)](https://github.com/micheleriva/krabs/actions/workflows/e2e.yml)
@@ -7,7 +7,7 @@
 [![npm](https://img.shields.io/npm/v/krabs?color=blue&logo=npm)](https://www.npmjs.com/package/krabs)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-**Krabs** is an enterprise-ready Express.js/Fastify middleware for serving **thousands** of different websites from a single Next.js instance.
+**Sirigueijo** is an enterprise-ready Express.js/Fastify middleware for serving **thousands** of different websites from a single Next.js instance.
 
 - [Sponsors](#sponsors)
 - [Installation](#installation)
@@ -33,12 +33,12 @@
 
 # Installation
 
-Krabs is available on **npm** and can be installed as follows:
+Sirigueijo is available on **npm** and can be installed as follows:
 
-**For Express.js** (see on [npm](https://www.npmjs.com/package/krabs))
+**For Express.js** (see on [npm](https://www.npmjs.com/package/@victorkl400/krabs-mod))
 
 ```bash
-yarn add krabs
+yarn add @victorkl400/krabs-mod
 
 # or
 
@@ -57,7 +57,7 @@ npm insall --save fastify-krabs
 
 # Things to know
 
-- Krabs forces you to use a custom server. Therefore, deployments to Vercel are not supported.
+- Sirigueijo forces you to use a custom server. Therefore, deployments to Vercel are not supported.
 - `_app` and `_document` pages are common to every website.
 
 # Getting Started
@@ -277,8 +277,8 @@ You can find the full documentation (with real code examples) [here](https://mic
 
 # License
 
-Krabs is _free as in freedom_ and licensed under the [**MIT** license](/LICENSE.md).
+Sirigueijo is _free as in freedom_ and licensed under the [**MIT** license](/LICENSE.md).
 
 <br />
 
-<img src="/misc/krabs-bottom.png" />
+<img src="/misc/sirigueijo-bottom.png" />
