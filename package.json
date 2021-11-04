@@ -1,5 +1,5 @@
 {
-  "name": "krabs-mod",
+  "name": "@victorkl400/krabs-mod",
   "version": "0.1.4",
   "description": "Multitenant middleware for Next.js",
   "workspaces": {
@@ -12,10 +12,13 @@
       "packages/e2e-fastify"
     ]
   },
-  "repository": "https://github.com/victorkl400/krabs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorkl400/krabs.git"
+  },
   "author": "Victor Emanuel",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "scripts": {
     "commit": "cz",
     "changelog": "conventional-changelog -p krabs -i CHANGELOG.md -s -r 0",
@@ -69,5 +72,16 @@
     "supertest": "^6.1.3",
     "ts-node": "^9.1.1",
     "typescript": "^4.1.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/victorkl400/krabs/issues"
+  },
+  "homepage": "https://github.com/victorkl400/krabs#readme",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "keywords": [
+    "krabs"
+  ]
 }

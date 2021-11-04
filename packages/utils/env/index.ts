@@ -6,4 +6,4 @@ export const environmentWarningMessage = [
   `The ${'NODE_ENV'} environment variable is ${'undefined'}.`,
   `Krabs will run in ${safeEnv} mode, meaning`,
   `it will only serve tenants domains set as ${safeEnv} domains.\n`,
-].join('\n').yellow;
+].join('\n');
