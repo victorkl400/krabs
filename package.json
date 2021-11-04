@@ -1,6 +1,6 @@
 {
   "name": "@victorkl400/krabs-mod",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Multitenant middleware for Next.js",
   "workspaces": {
     "packages": [
